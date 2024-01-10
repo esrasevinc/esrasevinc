@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **esrasevinc@hotmail.com**
 
+- 💬 Learn more about me on [my website.](https://www.esrasevinc.me/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/esra-sevinç-36436b224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esra-sevinç-36436b224" height="30" width="40" /></a>
